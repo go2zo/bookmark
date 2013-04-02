@@ -7,3 +7,5 @@ http://www.eclipse.org/graphiti/documentation/files/EclipseMagazineGraphiti.pdf
 http://projects.eclipse.org/projects/technology.nebula
 
 http://git.eclipse.org/c/mdt/org.eclipse.sphinx.git
+
+http://blog.naver.com/lmymyl?Redirect=Log&logNo=30146704921
