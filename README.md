@@ -11,3 +11,13 @@ http://git.eclipse.org/c/mdt/org.eclipse.sphinx.git
 http://blog.naver.com/lmymyl?Redirect=Log&logNo=30146704921
 
 http://www.sdn.sap.com/irj/scn/go/portal/prtroot/docs/library/uuid/a0ec6d13-1ab4-2d10-dc87-c0a18d7f23c8?QuickLink=index&overridelayout=true
+
+
+<redmine>
+install: http://www.redmine.org/projects/redmine/wiki/RedmineInstall
+
+json: https://github.com/oneclick/rubyinstaller/wiki/Development-Kit
+
+%HOME%: https://github.com/oneclick/rubyinstaller/wiki/Troubleshooting#wiki-gems_fails
+
+rmagick: https://github.com/rmagick/rmagick/issues/27
